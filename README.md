@@ -1,10 +1,10 @@
 # Bypass_Symantec
 Bypass Symantec Endpoint Protection
 
-turn off symantec endpoint protection with python file
+python file :
 
-https://github.com/imanh2002/Bypass_Symantec/blob/main/Code.py <br />
+https://github.com/imanh2002/Bypass_Symantec/blob/main/Code.py
 
-turn off symantec endpoint protection with exe file <br />
+exe file :
 
 https://github.com/imanh2002/Bypass_Symantec/blob/main/bypass%20symantec.exe
